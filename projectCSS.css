@@ -1,0 +1,17 @@
+h4 {
+  font-weight: bold;
+}
+
+blockquote {
+  font-size: 20px; 
+  color: darkgreen;
+  font-weight: bold;
+}
+
+p, ol, li {
+  font-size: 18px;
+}
+
+pre {
+  width: 110%;
+}
